@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">App.main</string>
+    <string name="main">主模块</string>
 </resources>

@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
 
   private void initView() {
     mToolbar = (Toolbar) findViewById(R.id.toolbar);
-    mToolbar.setTitle("Main");
+    mToolbar.setTitle(getString(R.string.main));
     mRecyclerview = (RecyclerView) findViewById(R.id.recyclerview);
     mAdapter = new MyAdapter();
     setSupportActionBar(mToolbar);
