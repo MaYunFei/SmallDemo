@@ -4,6 +4,14 @@
     {
       "uri": "main",
       "pkg": "com.yunfei.gank.app.main"
+    },
+    {
+      "uri": "lib.network",
+      "pkg": "com.yunfei.gank.lib.network"
+    },
+    {
+      "uri": "lib.style",
+      "pkg": "com.yunfei.gank.lib.style"
     }
   ]
 }
