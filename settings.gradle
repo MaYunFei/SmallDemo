@@ -1,1 +1,1 @@
-include ':app', ':app.main', ':lib.network', ':lib.style'
+include ':app', ':app.main', ':lib.network', ':lib.style', ':app.detail', ':lib.utils'

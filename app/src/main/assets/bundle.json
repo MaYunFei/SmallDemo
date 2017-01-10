@@ -12,6 +12,17 @@
     {
       "uri": "lib.style",
       "pkg": "com.yunfei.gank.lib.style"
+    },
+    {
+      "uri": "detail",
+      "pkg": "com.yunfei.gank.app.detail",
+      "rules": {
+        "subdetail": ".SubDetail"
+      }
+    },
+    {
+      "uri": "lib.utils",
+      "pkg": "com.yunfei.gank.lib.utils"
     }
   ]
 }
